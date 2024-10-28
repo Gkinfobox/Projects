@@ -1,2 +1,1 @@
-Hi this is Ganeshkumar, 
-    Here you can find out my own projects...
+"# Projects" 
